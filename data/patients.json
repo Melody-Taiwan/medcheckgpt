@@ -1,0 +1,11 @@
+{
+    "Patient A": {
+      "allergies": ["Penicillin"],
+      "current_meds": ["Allopurinol"]
+    },
+    "Patient B": {
+      "allergies": ["NSAID"],
+      "current_meds": ["Warfarin"]
+    }
+  }
+  

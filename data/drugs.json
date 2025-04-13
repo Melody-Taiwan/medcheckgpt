@@ -1,0 +1,19 @@
+{
+    "Amoxicillin": {
+      "type": "Antibiotic",
+      "allergy_risk": ["Penicillin"],
+      "interactions": {
+        "Allopurinol": "Moderate - Risk of rash and kidney toxicity"
+      },
+      "alternatives": ["Clarithromycin", "Doxycycline"]
+    },
+    "Ibuprofen": {
+      "type": "NSAID",
+      "allergy_risk": ["NSAID"],
+      "interactions": {
+        "Warfarin": "High - Increased risk of bleeding"
+      },
+      "alternatives": ["Acetaminophen"]
+    }
+  }
+  
